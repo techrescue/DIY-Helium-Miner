@@ -1,0 +1,1 @@
+ Check to see if Miner Is Syncing: docker exec miner miner info height && curl https://api.helium.io/v1/blocks/height
